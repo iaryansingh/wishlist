@@ -1,0 +1,5 @@
+git remote add origin https://github.com/iaryansingh/wishlist.git
+git branch -M main
+git push -u origin main
+
+pwd:  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
